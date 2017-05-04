@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="app_title">chain smoker new album 2016</string>
+    <string name="app_title_desc"><![CDATA[ft. rihana & user]]></string>
+
+    <!--Names-->
+
+    <string-array name="names">
+
+        <item>EMPTINESS FT. JUSTIN TIBLEKAR</item>
+        <item>IM FALLING LOVE WITH YOU</item>
+        <item>BABY FT.JUSTIN BABER</item>
+        <item>WHITE HORSE FT. TAYLOR SWIFT</item>
+
+    </string-array>
+
+    <!--Pictures-->
+
+    <array name="profile_pics">
+
+        <item>@drawable/album10</item>
+        <item>@drawable/album2</item>
+        <item>@drawable/album6</item>
+        <item>@drawable/album9</item>
+
+    </array>
+
+    <!--TIME-->
+
+    <string-array name="time">
+
+        <item>18 HOURS AGO</item>
+        <item>20 HOURS AGO</item>
+        <item>22 HOURS AGO</item>
+        <item>24 HOURS AGO</item>
+
+    </string-array>
+
+    <!--desc-->
+
+    <string-array name="desc">
+
+        <item>Lorem ipsum is simply dummy text of the printing and typesetting industry.</item>
+        <item>Lorem ipsum is simply dummy text of the printing and typesetting industry.</item>
+        <item>Lorem ipsum is simply dummy text of the printing and typesetting industry.</item>
+        <item>Lorem ipsum is simply dummy text of the printing and typesetting industry.</item>
+
+    </string-array>
+</resources>
